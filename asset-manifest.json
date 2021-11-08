@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-enb4e/static/css/main.035aaded.chunk.css",
-    "main.js": "https://.github.io/csb-enb4e/static/js/main.1c60421f.chunk.js",
-    "main.js.map": "https://.github.io/csb-enb4e/static/js/main.1c60421f.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-enb4e/static/js/runtime-main.49f95bb1.js",
-    "runtime-main.js.map": "https://.github.io/csb-enb4e/static/js/runtime-main.49f95bb1.js.map",
-    "static/js/2.8bac1038.chunk.js": "https://.github.io/csb-enb4e/static/js/2.8bac1038.chunk.js",
-    "static/js/2.8bac1038.chunk.js.map": "https://.github.io/csb-enb4e/static/js/2.8bac1038.chunk.js.map",
-    "index.html": "https://.github.io/csb-enb4e/index.html",
-    "static/css/main.035aaded.chunk.css.map": "https://.github.io/csb-enb4e/static/css/main.035aaded.chunk.css.map",
-    "static/js/2.8bac1038.chunk.js.LICENSE.txt": "https://.github.io/csb-enb4e/static/js/2.8bac1038.chunk.js.LICENSE.txt"
+    "main.css": "https://mitibirru.github.io/csb-enb4e/static/css/main.035aaded.chunk.css",
+    "main.js": "https://mitibirru.github.io/csb-enb4e/static/js/main.1c60421f.chunk.js",
+    "main.js.map": "https://mitibirru.github.io/csb-enb4e/static/js/main.1c60421f.chunk.js.map",
+    "runtime-main.js": "https://mitibirru.github.io/csb-enb4e/static/js/runtime-main.0f3b4515.js",
+    "runtime-main.js.map": "https://mitibirru.github.io/csb-enb4e/static/js/runtime-main.0f3b4515.js.map",
+    "static/js/2.8bac1038.chunk.js": "https://mitibirru.github.io/csb-enb4e/static/js/2.8bac1038.chunk.js",
+    "static/js/2.8bac1038.chunk.js.map": "https://mitibirru.github.io/csb-enb4e/static/js/2.8bac1038.chunk.js.map",
+    "index.html": "https://mitibirru.github.io/csb-enb4e/index.html",
+    "static/css/main.035aaded.chunk.css.map": "https://mitibirru.github.io/csb-enb4e/static/css/main.035aaded.chunk.css.map",
+    "static/js/2.8bac1038.chunk.js.LICENSE.txt": "https://mitibirru.github.io/csb-enb4e/static/js/2.8bac1038.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.49f95bb1.js",
+    "static/js/runtime-main.0f3b4515.js",
     "static/js/2.8bac1038.chunk.js",
     "static/css/main.035aaded.chunk.css",
     "static/js/main.1c60421f.chunk.js"
